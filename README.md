@@ -42,8 +42,4 @@
 
 ![HackTheBox](https://www.hackthebox.com/badge/image/257502)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rektsu&show_icons=true&locale=en&layout=compact" alt="rektsu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rektsu&show_icons=true&locale=en" alt="rektsu" /></p>
-
 
