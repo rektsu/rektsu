@@ -40,7 +40,7 @@
 
 ![Rektsu's Github Stats](https://github-readme-stats.vercel.app/api?username=rektsu&theme=blue-green)
 
-![HackTheBox](https://www.hackthebox.com/home/users/profile/257502)
+![HackTheBox](https://www.hackthebox.com/badge/image/257502)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rektsu&show_icons=true&locale=en&layout=compact" alt="rektsu" /></p>
 
