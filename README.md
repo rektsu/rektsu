@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **fonsobr@gmail.com**
 
-- 📄 Know about my experiences [https://rektsu.github.io/cv](https://rektsu.github.io/cv)
+- 📄 Know about my experiences [https://rektsu.github.io/cv](https://rektsu.github.io/)
 
 - ⚡ Interesting fact **I also play piano and enjoy classical music**
 
