@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://rektsu.io)
 <h1 align="center">Hi 👋, I'm Alfonso aka @rektsu</h1>
-<h3 align="center">Love offensive security, red teamer and maldev wannabe</h3>
+<h3 align="center">Love offsec, red teamer and maldev wannabe</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/K8R7LThju04AAAAC/hack-the-planet.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rektsu&label=Profile%20views&color=0e75b6&style=flat" alt="rektsu" /> </p>
