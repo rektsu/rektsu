@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maldevrektsu" target="blank"><img src="https://img.shields.io/twitter/follow/maldevrektsu?logo=twitter&style=for-the-badge" alt="maldevrektsu" /></a> </p>
 
-- 🔭 I’m currently working on [malware developing from zero to hero](https://rektsu.github.io/maldev)
+- 🔭 I’m currently working on [documenting my learning process](https://rektsu.github.io/)
 
 - 🌱 I’m currently learning **malware**
 
