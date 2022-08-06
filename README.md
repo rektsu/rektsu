@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [documenting my learning process](https://rektsu.github.io/)
 
-- 🌱 I’m currently learning **malware**
+- 🌱 I’m currently learning **How to Obfuscate API calls, Process Hollowing and Reflective DLL injection**
 
 - 👯 I’m looking to collaborate on **C2 Developing**
 
@@ -17,13 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://rektsu.github.io/](https://rektsu.github.io/)
 
-- 📝 I regularly write articles on [https://twitter.com/MaldevRektsu](https://twitter.com/MaldevRektsu)
-
 - 💬 Ask me about **anything :)**
 
 - 📫 How to reach me **fonsobr@gmail.com**
-
-- 📄 Know about my experiences [https://rektsu.github.io/cv](https://rektsu.github.io/)
 
 - ⚡ Interesting fact **I also play piano and enjoy classical music**
 
