@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **fonsobr@gmail.com**
-
 - ⚡ Interesting fact **I also play piano and enjoy classical music**
 
 <h3 align="left">Connect with me:</h3>
